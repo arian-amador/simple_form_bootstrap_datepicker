@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = SimpleFormBootstrapDatepicker::VERSION
   spec.authors       = ["arianamador"]
   spec.email         = ["arian@arianamador.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = "Adds a bootstrap date picker simple form input with wrapper."
+  spec.description   = "Adds a bootstrap date picker simple form input with wrapper. Creates an input group with a calendar icon with support for Bootstrap, FontAwesome, and Foundation glyph libraries."
+  spec.homepage      = "https://github.com/arian-amador/simple_form_bootstrap_datepicker"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
