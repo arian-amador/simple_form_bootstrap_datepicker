@@ -1,6 +1,6 @@
 # Simple Form Bootstrap Datepicker
 
-[![Gem Version](https://badge.fury.io/rb/simple-form-bootstrap-datepicker.svg)](http://badge.fury.io/rb/simple-form-bootstrap-datepicker)
+[![Gem Version](https://badge.fury.io/rb/simple_form_bootstrap_datepicker.svg)](http://badge.fury.io/rb/simple_form_bootstrap_datepicker)
 
 Adds a bootstrap date picker for [Simple Form](https://github.com/plataformatec/simple_form).
 
